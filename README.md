@@ -1,2 +1,3 @@
-# hash
-my projecttttttttttttttttttttttttttttt
+# PU_week1
+Для сборки запустить npm run build.
+Также необходимо запускать на localhost (требуется защищенное соединение, localhost браузерами считается защищенным)
